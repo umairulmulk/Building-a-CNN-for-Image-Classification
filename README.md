@@ -103,3 +103,6 @@ Potential enhancements include:
 - Expanding the dataset with additional categories
 - Experimenting with advanced techniques like attention mechanisms
 
+## For a detailed explanation of the project and the steps involved, check out the full article on Medium: 
+[Email Spam Classifier with Decision Tree](https://medium.com/@umairm142/building-a-cnn-for-image-classification-88a89619f898))
+
